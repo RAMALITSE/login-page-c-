@@ -1,0 +1,12 @@
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\bin\Debug\EmpSystem.exe.config
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\bin\Debug\EmpSystem.exe
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\bin\Debug\EmpSystem.pdb
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.csproj.AssemblyReference.cache
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.Properties.Resources.resources
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.csproj.GenerateResource.cache
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.csproj.CoreCompileInputs.cache
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.exe
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.pdb
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.registerForm.resources
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.loginform.resources
+C:\Users\RAMALITSE\source\repos\EmpSystem\EmpSystem\obj\Debug\EmpSystem.Menu.resources
